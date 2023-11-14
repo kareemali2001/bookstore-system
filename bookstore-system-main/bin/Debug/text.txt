@@ -1,0 +1,9 @@
+jimmycar,comedy,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\1.jpg
+americancheese,comedy,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\2.jpg
+comedywriting,comedy,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\3.jpg
+redwhiteroyalblue,comedy,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\4.jpg
+spaceacedemy,sciencefiction,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\5.jpg
+hungergames,sciencefiction,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\6.jpg
+soundofstars,horror,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\7.jpg
+booksthatchangedhistoy,history,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\8.jpg
+theboundlesssea,horror,C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\9.jpg

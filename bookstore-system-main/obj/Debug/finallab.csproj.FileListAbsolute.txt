@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\finallab.exe.config
+C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\finallab.exe
+C:\Users\DELL\source\repos\finallab\finallab\bin\Debug\finallab.pdb
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.Form1.resources
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.Properties.Resources.resources
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.exe
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.pdb
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.Form2.resources
+C:\Users\DELL\source\repos\finallab\finallab\obj\Debug\finallab.Form3.resources
